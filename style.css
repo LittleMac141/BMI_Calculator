@@ -1,0 +1,30 @@
+html {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background-color: #fff;
+    text-align: center;
+   /*  height: 300px; */
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+}
+form {
+    border: 1px black solid;
+    border-radius: 15px;
+    padding: 10px;
+}
+input {
+    margin: 10px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px gray solid;
+}
+
+#results {
+    font-family: monospace;
+    font-size: 2rem;
+}
